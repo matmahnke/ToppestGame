@@ -147,9 +147,6 @@
     <None Include="Resources\naruto4.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Cp2vGmyXYAQejsQ.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\fausto.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
