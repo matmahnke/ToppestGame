@@ -157,11 +157,11 @@ namespace ToppestGame
                     MessageBox.Show("kkkkkk jura?");
                 }
             }
-            else if (Parametros.Idade == 69)
+            else if (idade == 69)
             {
                 MessageBox.Show("       ( ͡° ͜ʖ ͡°)");
             }
-            else if (Parametros.Idade > 70)
+            else if (idade > 70)
             {
                 MessageBox.Show("what the fuuuuuuck como assim");
             }
