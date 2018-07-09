@@ -45,14 +45,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="ErrorForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ErrorForm.Designer.cs">
+      <DependentUpon>ErrorForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Introducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Introducao.Designer.cs">
+      <DependentUpon>Introducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ErrorForm.resx">
+      <DependentUpon>ErrorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Introducao.resx">
+      <DependentUpon>Introducao.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -61,6 +74,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -74,6 +88,69 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrevista1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrevista2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrevista3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrevista3bad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrevista3good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fim1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guia2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guia3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\internet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\internet2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\internet3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naruto1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naruto2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naruto3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naruto4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cp2vGmyXYAQejsQ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fausto.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

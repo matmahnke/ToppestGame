@@ -1,0 +1,11 @@
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\bin\Debug\ToppestGame.exe.config
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\bin\Debug\ToppestGame.exe
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\bin\Debug\ToppestGame.pdb
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\obj\Debug\ToppestGame.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\obj\Debug\ToppestGame.ToppestGame.resources
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\obj\Debug\ToppestGame.Properties.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\obj\Debug\ToppestGame.csproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\obj\Debug\ToppestGame.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\obj\Debug\ToppestGame.exe
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\obj\Debug\ToppestGame.pdb
+C:\Users\Alan\Documents\Visual Studio 2017\Projects\ToppestGame\ToppestGame\obj\Debug\ToppestGame.ErrorForm.resources
